@@ -1,3 +1,5 @@
+## As issue now fixed in HA 0.110.0 it is not needed to use this repo
+
 # Information
 Modification of Broadlink components to support switch in Home Assistant on Raspberry Pi.
 
